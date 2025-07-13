@@ -35,9 +35,7 @@ const Index = () => {
               style={{ fontFamily: 'Caveat, cursive', textShadow: '4px 4px 8px rgba(0,0,0,0.5)' }}>
             🎬 RANDOM VIDEOS 🎥
           </h1>
-          <p className="text-2xl md:text-3xl text-white font-bold drop-shadow-lg animate-bounce">
-            ДУРАЦКИЕ ВИДОСЫ ДЛЯ ДУРАЦКИХ ЛЮДЕЙ!
-          </p>
+          <p className="text-2xl md:text-3xl text-white font-bold drop-shadow-lg animate-bounce">Мотивация от туземцв</p>
         </div>
 
         {/* Видеоплеер */}
