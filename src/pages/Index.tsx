@@ -66,7 +66,7 @@ const Index = () => {
           
           {/* Информация о видео */}
           <div className="p-6 bg-white/30 backdrop-blur-sm">
-            <h3 className="text-xl font-bold text-white mb-2">🎪 Случайное безумное видео #{Math.floor(Math.random() * 999)}</h3>
+            <h3 className="text-xl font-bold text-white mb-2">Приветствие</h3>
             <p className="text-white/80">Нажми кнопку и получи рандомный контент!</p>
           </div>
         </Card>
